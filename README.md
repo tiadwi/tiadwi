@@ -2,55 +2,37 @@
 
 I'm a learning designer, AI instructor, and learning analytics researcher, based in Bandung, Indonesia.
 
-With a background in computational science and over 10 years of experience across university teaching and large-scale online learning, I explore how learner interaction data can inform responsible, human-centered AI-supported feedback and assessment—particularly in online computing education.
+With a background in computational science and over 10 years of experience across university teaching and large-scale online learning, I explore how learner interaction data can inform responsible, human-centered AI-supported feedback and assessment, particularly in online computing education.
 
-## Research Interests
+## 🔍 Research Interests
+- Learning analytics and self-regulated learning
+- AI-supported feedback, assessment, and learner engagement
+- Human-centered, responsible AI in online computing education
 
-- Learning analytics
-- Self-regulated learning
-- AI-supported feedback and assessment
-- Learner engagement in online education
-- Human-centered and responsible AI in education
-- Online computing and programming education
+## 🌱 What I'm Currently Working On
+* Leading **LAI (Learning Analytics Indonesia) Lab**, a community-based research initiative
+* Analysing the FLoRA IPS dataset through an **ASCILITE Learning Analytics SIG** collaborative project
+* Developing research notebooks and portfolio publications in learning analytics and AI in education
+* Delivering AI, machine learning, and data literacy training
 
-## What I'm Currently Working On
+## 🧰 Technical and Research Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-- Founding and developing **LAI (Learning Analytics Indonesia) Lab**, a community-based research initiative
- initiative
-- Contributing to an **ASCILITE Learning Analytics SIG collaborative project** using the FLoRA IPS open dataset
-- Analysing dialogue, interaction-trace, and writing-process data from AI-supported learning environments
-- Developing analytical notebooks and research-informed portfolio publications
-- Preparing for doctoral research at the intersection of learning analytics, AI, and education
-- Delivering AI, machine learning, and data literacy training
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-## Technical and Research Skills
+**Research methods:** Learning analytics · Mixed methods · Exploratory data analysis · Clustering · Process analysis
 
-**Programming and data analysis:** Python, Pandas, NumPy, Scikit-learn
-
-**Machine learning:** TensorFlow, Keras
-
-**Data visualisation:** Matplotlib, Seaborn, Tableau
-
-**Research methods:** Learning analytics, exploratory data analysis, mixed-methods research, clustering, and process analysis
-
-## Education and Credentials
-
+## 🎓 Education and Credentials
 - **M.Sc. in Computational Science** — Institut Teknologi Bandung
 - **TensorFlow Developer Certificate** — TensorFlow / Google Developers, 2024 · [View credential](https://www.credential.net/23be75ea-3216-45f5-9492-028a09659ff4)
 - **E-Learning Instructional Design and Development Certificate** — Oregon State University, 2022 · [View credential](https://drive.google.com/file/d/1zZTtlmCxXBHdEaKQfMoDd6DOrOBHgJth/view?usp=sharing)
-  - Completed a six-month, 18-CEU professional program in instructional design and course development
 
-## Selected Projects
-
-Selected learning analytics and AI-in-education projects will be added as their repositories and documentation are prepared for publication.
-
-## Selected Publications and Reports
-
-- Research on GPU-based Monte Carlo simulation for X-ray imaging
-- *IT Talent Roadmap: Towards Golden Indonesia 2045*
-- *The Impact of Bangkit as Part of Merdeka Belajar Kampus Merdeka for the Country*
-
-## Connect With Me
-
+## 🤝 You Can Find Me at
 - [LinkedIn](https://www.linkedin.com/in/tiadwisetiani/)
 - [Google Scholar](https://scholar.google.com/citations?user=gXdi7aYAAAAJ&hl=id)
